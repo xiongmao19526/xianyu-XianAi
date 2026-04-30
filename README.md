@@ -55,10 +55,8 @@
 | **关键词自动回复** | ✅ | ✅ |
 | **快捷短语** | ✅ | ✅ |
 | **订单侧边栏** | ✅ | ✅ |
-| **鱼小铺工作台** (商品发布/擦亮/数据) | ✅ | ✅ |
-| **擦亮桌面版** | ✅ | ✅ |
+| **鱼小铺工作台** (商品发布/数据) | ✅ | ✅ |
 | **飞书通知** | ✅ | ✅ |
-| **AES 加密 Cookie 存储** | ✅ | ✅ |
 | **AI 自动客服** (DeepSeek/智谱/GPT 兼容) | 🎁 试用 7 天 | ✅ 周/月/季/年卡 |
 | **卡券自动发货** (虚拟商品自动发卡密) | 🎁 试用 7 天 | ✅ 周/月/季/年卡 |
 
@@ -73,7 +71,7 @@
 - **接 DeepSeek / 智谱 GLM / OpenAI / 任意 OpenAI 兼容接口** — 你自己选模型, 你自己充值, 我们不赚 token 钱
 - **风格库**: 你过往的真实回复会被自动收集, AI 模仿你的口吻和用词, 不像机器人
 - **多商品独立提示词**: 不同商品配不同的卖点 / 红线 / FAQ, 套餐报价表精确到 SKU
-- **价格白名单硬约束**: AI 只能报你配的价格, 想自由发挥砍价 → 自动转人工
+- **价格白名单硬约束**: AI 只能报你配的价格, 想自由发挥砍价 → 自动转人工（飞书通知）
 - **风控关键词**: 退款 / 投诉 / 12315 / 差评 → 立即转人工, 不让 AI 误事
 - **调用日志**: 每条 AI 回复都能复盘, 不满意一键加入风格库纠正
 - **运行时间窗口**: 工作日/周末/夜间分别配置启用时段
@@ -108,16 +106,24 @@
 ---
 
 ## 📷 软件截图
-
-> (此处建议放 5-8 张截图: 主界面 / 多账号切换 / AI 客服配置 / 卡券管理 / 订单侧栏 / 鱼小铺)
+<img width="466" height="593" alt="2bfc8218-743f-4f32-95cd-131421cc1332" src="https://github.com/user-attachments/assets/260fc966-23e6-4e1c-8fee-0ed0e44edbd6" />
+<img width="1386" height="773" alt="image" src="https://github.com/user-attachments/assets/4185daca-f0ec-4d9f-bcf2-b655bec12027" />
+<img width="1326" height="693" alt="image" src="https://github.com/user-attachments/assets/577dd714-160b-40a6-ad99-7d535085865e" />
+<img width="1326" height="693" alt="602d6ddd-8618-4ab8-8e0f-f79714737d02" src="https://github.com/user-attachments/assets/1ab5b4f2-221f-48c7-8bd9-34f9660af10a" />
+<img width="1326" height="693" alt="image" src="https://github.com/user-attachments/assets/5ed7e860-0ad6-48e3-bb68-d53e26beed45" />
+<img width="936" height="633" alt="image" src="https://github.com/user-attachments/assets/3b926218-b75a-46ed-a3ea-ae86279230a8" />
+<img width="936" height="633" alt="image" src="https://github.com/user-attachments/assets/4407cea5-10f6-42a5-b778-60ad31ad0805" />
+<img width="936" height="633" alt="image" src="https://github.com/user-attachments/assets/78336104-da7b-41d8-beb9-0b9fd86a7538" />
+<img width="1386" height="773" alt="image" src="https://github.com/user-attachments/assets/965e4457-e740-4bee-94e5-2f9c95184714" />
+<img width="1386" height="773" alt="image" src="https://github.com/user-attachments/assets/8dc6e7b2-43be-4d68-b67f-eb14647edfdd" />
 
 ---
 
 ## 💰 购买激活
 
-- **试用**: 每个闲鱼号每个功能 (AI / 自动发货) 可免费试用 7 天
+- **试用**: 每个闲鱼号每个功能 (AI客服 / 自动发货) 都可免费试用 7 天
 - **付费**: 周卡 / 月卡 / 季卡 / 年卡 多档可选, 软件内"激活套餐"弹窗扫码即可
-- **联系方式**: 见软件内"购买/联系"页, 或邮件 _(待补充)_
+- **联系方式**: 见软件内"购买/联系"页
 
 ---
 
@@ -145,7 +151,7 @@ A: 不需要. 激活码绑定闲鱼账号, 软件升级不影响.
 
 ## 📜 许可
 
-Copyright © 2026 979193906. All rights reserved.
+Copyright © 2026 All rights reserved.
 
 闲AI 软件 (含本仓库 Releases 中所有二进制) 受版权保护:
 
