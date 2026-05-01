@@ -8,6 +8,7 @@
 [![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](../../releases/latest)
 [![download](https://img.shields.io/badge/⬇_下载安装包-Releases-orange)](../../releases/latest)
 
+> AI客服接入，加入Ai风格库，越用越聪明，成长型Ai客服
 > 解决闲鱼网页版/移动端"消息错过、发货慢、回复慢"三大痛点
 > 让你像运营淘宝店一样运营闲鱼
 
