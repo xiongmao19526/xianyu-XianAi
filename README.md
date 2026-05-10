@@ -6,9 +6,9 @@
 
 > 多账号（无限开）IM回复免费版，支持关键词，自动 文字/图片 回复
 
+<img width="1200" height="1200" alt="闲AI_主图A_科技感_3fb0456b" src="https://github.com/user-attachments/assets/12315a2a-7193-4642-8094-792e6eb08274" />
+<img width="1200" height="1200" alt="闲AI_AI能力详情_1e8ee7a8" src="https://github.com/user-attachments/assets/21208a4c-ea85-4a70-9e6c-0240da3205cb" />
 
-![输入图片说明](%E9%97%B2AI_%E4%B8%BB%E5%9B%BEA_%E7%A7%91%E6%8A%80%E6%84%9F_3fb0456b.png)
-![输入图片说明](%E9%97%B2AI_AI%E8%83%BD%E5%8A%9B%E8%AF%A6%E6%83%85_1e8ee7a8.png)
 ---
 
 ## 📥 软件下载
@@ -56,13 +56,13 @@
 ---
 
 ## 📸 软件截图
+<img width="466" height="593" alt="62657ccf8654448292a5d572bc47f481" src="https://github.com/user-attachments/assets/ecae50f8-c4e4-4199-862e-8d334bc82157" />
+<img width="1386" height="773" alt="30271a55b8ca992d1ec685afad3d5d65" src="https://github.com/user-attachments/assets/0c126edb-7f3a-4dd4-a426-cc81f00415dd" />
+<img width="594" height="425" alt="49becc33-49b6-4b5b-8a5d-2a467892c49a" src="https://github.com/user-attachments/assets/446e1f42-5ea0-4c1c-a345-5eff914c26f7" />
+<img width="1328" height="688" alt="5ab0245c12ffd89e472fe0faed43246f" src="https://github.com/user-attachments/assets/54c1ba0e-b8bf-4231-a128-4138eaaa0133" />
+<img width="641" height="556" alt="dcbfe797178dae009eb80d74f608bbbb" src="https://github.com/user-attachments/assets/42f8421b-37a1-4d9d-b246-1b76562e7e4a" />
+<img width="936" height="633" alt="3e59a490477307e83c6a19c36fb30221" src="https://github.com/user-attachments/assets/779e8729-150d-45b3-b77d-0dc43f2605e7" />
 
-![输入图片说明](9df574c6-afaa-4d7e-9cf8-bb4c0fee6aea.png)
-![输入图片说明](image.png)
-![输入图片说明](image2.png)
-![输入图片说明](image3.png)
-![输入图片说明](image4.png)
-![输入图片说明](image6.png)
 
 ---
 
